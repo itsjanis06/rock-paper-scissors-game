@@ -1,0 +1,12 @@
+Ages = [14, 18, 19, 25, 40, 56, 12, 18, 17, 18]
+print(len(ages))
+print(ages[9])
+
+names = ['Anna', 'Jenifer', 'Mik',' OSKARS']
+ages = [14, 18, 19, 25, 40]
+
+#print(lens(ages))
+
+
+print(names[1])
+print(ages[1])
