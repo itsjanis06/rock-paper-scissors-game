@@ -1,0 +1,59 @@
+ontact_anna = {'name': 'Anna'}
+
+print(contact_anna['name'])
+
+contact_elza = {'age': '16'}
+
+print(contact_elza['age'])
+
+contact_anna = {'occupation': 'teacher'}
+
+print(contact_anna['occupation'])
+
+contact_oskars = {'location': 'Rigas iela 34'}
+
+print(contact_oskars['location'])
+
+
+contacts = []
+
+person_name = input('Name: ')
+person_surname = input('Surname: ')
+person_phone = input('Phone: ')
+person_email = input('Email: ')
+
+persons_contact = {
+     'name': person_name,
+     'surname': person_surname,
+     'phone': person_phone,
+     'email': person_email
+    
+}
+     
+append = (persons_contact)
+
+
+
+
+names = ['anna', 'arturs', 'miks',' oskars',' elza','janis ' ]
+ages = [14, 18, 19, 25, 40, 16]
+
+#print(len(ages))
+
+print(names[0])
+print(ages[0])
+
+print(names[1])
+print(ages[1])
+
+print(names[2])
+print(ages[2])
+
+print(names[3])
+print(ages[3])
+
+print(names[4])
+print(ages[4])
+
+print(names[5])
+print(ages[5])
